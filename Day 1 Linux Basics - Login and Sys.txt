@@ -1,0 +1,9 @@
+#Day 1: Linux Basics - Login and System Documentation
+Today I  practiced basic Linux commands and connected to a remote server using SSH.
+
+Commands learned:
+-ls -a: View hidden files starting with a dot(.)
+-cp -1: Copy files interactively(asks before overwriting)
+-ssh: Securely connect to a remote host (ssh node01)
+-touch: Create a new blank file
+-exit: Disconnect from a terminal session
